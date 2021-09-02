@@ -1,0 +1,21 @@
+[
+    {
+        "file_id": 1,
+        "file_link": "http://localhost:8080/2021-08-27_12-05.png",
+        "post_title": "hello",
+        "post_discrition": "salom hammaga",
+        "post_time": "Sun Aug 29 2021 16:51:29 GMT+0500 (Uzbekistan Standard Time)"
+    },
+    {
+        "file_id": 2,
+        "file_link": "http://localhost:8080/test.png",
+        "post_title": "hellodfasfa",
+        "post_discrition": "salom hammagaasdfasdf",
+        "post_time": "Sun Aug 29 2021 16:51:29 GMT+0500 (Uzbekistan Standard Time)"
+    },
+    {
+        "userId": "5",
+        "file_id": 3,
+        "file_link": "http://localhost:8080/img30.jpg"
+    }
+]

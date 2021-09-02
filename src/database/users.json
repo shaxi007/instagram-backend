@@ -1,0 +1,37 @@
+[
+    {
+        "userId": 1,
+        "username": "ahror",
+        "fullname": "Adhamxojayev",
+        "email": "axror@gmail.com",
+        "password": "afa1599cdea8f9c0ecd3d8de2268f707"
+    },
+    {
+        "userId": 2,
+        "username": "umar",
+        "fullname": "torayevv",
+        "email": "umar@gmail.com",
+        "password": "fbdc43d75738ba03e1dbb038d293ac18"
+    },
+    {
+        "userId": 3,
+        "username": "shaxboz",
+        "fullname": "teshayev",
+        "email": "shaxboz@gamil.com",
+        "password": "9d78f0418d36f83a6f905061540408db"
+    },
+    {
+        "userId": 4,
+        "username": "1hror1",
+        "fullname": "Adhamxojayev",
+        "email": "axror@gmail.com",
+        "password": "eb40b5ca49465f6bcfff74cd7dc70a01"
+    },
+    {
+        "userId": 5,
+        "username": "shaxi007",
+        "fullname": "TESHAYEV",
+        "email": "teshayevshaxboz62@gmail.com",
+        "password": "5359398c7b8320f06f116a79cb33eefb"
+    }
+]
